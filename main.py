@@ -10,3 +10,5 @@ mensagem = ctk.CTkLabel(janela, text="Ben vindo ao sitema Teste")
 mensagem.pack(expand=True)
 
 janela.mainloop()
+
+# teste
